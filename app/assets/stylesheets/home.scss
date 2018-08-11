@@ -1,0 +1,55 @@
+.dialer-pad{
+  position: absolute;
+  width: 300px;
+  margin: auto;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  background-color: #fff;
+  height: 60vh; 
+  /*border: 1px solid #000;*/
+}
+
+.btn{
+  border-radius: 0px !important;
+}
+
+.search-container{
+  width: 300px;
+  /*min-height:  100vh;*/
+  height: 40vh;
+  overflow: scroll; 
+  background-color: #fff;
+  /*border: 1px solid #000;*/
+}
+
+body{
+  background-color: #f2f2f2 !important;
+}
+
+h3{
+  padding-left: 20px;
+
+  padding-top: 20px;
+
+  padding-right:20px;
+
+  padding-bottom: 0px;
+}
+p{
+  margin-bottom: 0px;
+}
+
+
+
+.no-border{
+  border: 0px !important;
+}
+.form-control{
+  border-bottom: 1px solid #f2f2f2 !important;
+  border-radius: 0px !important;
+  /*border-color: */
+}
+.form-control:focus{
+  border-color: #fff !important;
+}
